@@ -1,7 +1,7 @@
 <?php
 namespace eBaocd\AbsMvc;
 
-class Controller
+class Model
 {
     
 }
